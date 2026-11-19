@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nombre": "Teclado mecánico", "categoria": "Periféricos", "precio": 89.9 },
+  { "id": 2, "nombre": "Mouse inalámbrico", "categoria": "Periféricos", "precio": 35.5 },
+  { "id": 3, "nombre": "Monitor 27 pulgadas", "categoria": "Pantallas", "precio": 320 },
+  { "id": 4, "nombre": "Laptop ultraliviana", "categoria": "Computadoras", "precio": 1150 },
+  { "id": 5, "nombre": "Audífonos con micrófono", "categoria": "Audio", "precio": 59 },
+  { "id": 6, "nombre": "Webcam Full HD", "categoria": "Periféricos", "precio": 48 }
+]
